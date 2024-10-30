@@ -1,5 +1,4 @@
-# Project Name
-> Bike Sharing Assignment.
+# Bike Sharing Assignment.
 
 BoomBikes, a US bike-sharing provider, has faced revenue losses due to the COVID-19 pandemic and now aims to develop a data-driven strategy to boost post-lockdown demand.
 They seek insights into the factors influencing bike demand to help differentiate themselves from competitors and capitalize on future market needs. 
